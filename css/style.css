@@ -385,11 +385,13 @@ input {
         display: flex;
         flex-direction: column-reverse;
         justify-content: center;
+        margin: 20px;
     }
     .skills {
         display: flex;
         flex-direction: column-reverse;
         justify-content: center;
+        margin: 20px;
     }
     header {
         display: flex;
